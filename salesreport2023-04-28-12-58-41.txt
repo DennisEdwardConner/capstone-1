@@ -1,0 +1,40 @@
+<<<<<<< HEAD:salesreport2023-04-28-12-58-41.txt
+=======
+Potato Crisps|0
+Stackers|0
+Grain Waves|0
+Cloud Popcorn|0
+Moonpie|0
+Cowtales|0
+Wonka Bar|0
+Crunchie|0
+Cola|0
+Dr. Salt|0
+Mountain Melter|1
+Heavy|0
+>>>>>>> 59cf9ce862545ae11253932c51e76d9e5ff7803e:SalesReport.csv
+U-Chews|0
+Cola|0
+Little League Chew|0
+Moonpie|0
+Dr. Salt|0
+Chiclets|0
+<<<<<<< HEAD:salesreport2023-04-28-12-58-41.txt
+Potato Crisps|0
+Cowtales|0
+Mountain Melter|0
+Triplemint|0
+Stackers|0
+Wonka Bar|0
+Heavy|0
+Grain Waves|0
+Crunchie|0
+Cloud Popcorn|0
+
+TOTAL SALES : $0.00
+=======
+Triplemint|1
+
+
+ **TOTAL SALES **  2.25
+>>>>>>> 59cf9ce862545ae11253932c51e76d9e5ff7803e:SalesReport.csv
